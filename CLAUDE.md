@@ -4,7 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## プロジェクトの状況
 
-このCLAUDE.mdの作成時点では、リポジトリにコードがありません。ビルド・テスト・Lintのコマンドやアーキテクチャは未確定のため、コードを追加して決まり次第ここに追記してください。
+Google Apps Script（`.gs`）のスクリプトを管理するリポジトリです。ビルド・テスト・Lintのコマンドや、Apps Scriptへのデプロイ手段は未整備のため、決まり次第ここに追記してください。
+
+- `summary_dashboard.gs`：スプレッドシートにバインドして使う想定。「売上データ」シートを月ごとに集計し、「月次サマリー」シートに結果と棒グラフを出力する（`runDashboard`）。`setDailyTrigger`は毎朝9時台の実行トリガーを登録する
 
 ## Git運用ルール
 
