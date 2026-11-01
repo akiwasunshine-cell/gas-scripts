@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## プロジェクトの状況
 
-このCLAUDE.mdの作成時点では、ディレクトリにコードがなく、Gitリポジトリも未初期化です。ビルド・テスト・Lintのコマンドやアーキテクチャは未確定のため、コードを追加して決まり次第ここに追記してください。
+このCLAUDE.mdの作成時点では、リポジトリにコードがありません。ビルド・テスト・Lintのコマンドやアーキテクチャは未確定のため、コードを追加して決まり次第ここに追記してください。
 
 ## Git運用ルール
 
